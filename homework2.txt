@@ -29,10 +29,10 @@ vim new2.txt
 vim new2.json
 
 14. Добавить и закоммитить “new2.txt” одной строчкой. 
-git commit -am new2.txt
+git commit -am "new2.txt"
 
 15. Добавить и закоммитить “new2.json” одной строчкой. 
-git commit -am new2.json
+git commit -am "new2.json"
 
 16. Отправить изменения на внешний репозиторий.
 git push
@@ -41,7 +41,7 @@ git push
 vim new2.xml
 
 18. Добавить и закоммитить “new2.xml” одной строчкой. 
-git commit -am new2.xml
+git commit -am "new2.xml"
 
 19. Отправить изменения на внешний репозиторий.
 git push
