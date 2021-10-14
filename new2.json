@@ -1,6 +1,21 @@
+<<<<<<< HEAD
 {
 "First name": "Mariya",
 "Last name": "Bykova",
 "Pets": 7,
 "Salary": 1000
 }
+=======
+{
+  "first_name" : "Mariya",
+  "last_name" : "Bykova",
+  "age" : 34,
+  "Pets" : 7,
+  "Expected_Salary" : 1000,
+  "Favorite_Film" : "AI",
+  "Favorite_Serial" : "Xfiles",
+  "Favorite_Food" : "Sushi",
+  "Favorite_Season" : "Spring",
+  "Country" : "Netherlands"
+}
+>>>>>>> ce14451e0378f7c503120f0c19f9eeed2b7fba33
