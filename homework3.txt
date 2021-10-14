@@ -9,10 +9,17 @@
 git branch Postman Jmeter Bag Reports CheckLists BugReports SQL Charles Mobiletesting 
 
 2. Запушить все ветки на внешний репозиторий
-git push orign Postman Jmeter Bag Reports CheckLists BugReports SQL Charles Mobiletesting 
+git push origin Postman 
+git push origin Jmeter
+git push origin Bag Reports 
+git push origin CheckLists
+git push origin BugReports
+git push origin SQL 
+git push origin Charles
+git push origin Mobiletesting 
 
 3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта
-https://github.com/Meowmd/Homework/blob/BugReports/Bugreport.txt
+https://github.com/Meowmd/Terminal/blob/BugReports/Bugreport.txt
 
 4. Запушить структуру багрепорта на внешний репозиторий
 git add Bugreport.txt
@@ -26,13 +33,13 @@ git merge Bugreport.txt
 git push -u origin main
 
 7. В ветке CheckLists набросать структуру чек листа.
-https://github.com/Meowmd/Homework/blob/CheckLists/Checklists.txt
+https://github.com/Meowmd/Terminal/blob/CheckLists/Checklists.txt
 
 8. Запушить структуру на внешний репозиторий
 git push -u origin CheckLists.txt
 
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
-Смотреть в репозитории
+https://github.com/Meowmd/Terminal/Checklists.txt
 
 10. Синхронизировать Внешнюю и Локальную ветки Main
 git pull origin main
