@@ -1,0 +1,16 @@
+Bug ID
+Title
+Date
+Reporter
+Summary
+Project
+Screenshot
+Platform
+Browser
+Steps to Reproduce
+Expected Result
+Actual Result
+Severity
+Priority
+Assigned to
+Assigned at
